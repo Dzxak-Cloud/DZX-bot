@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Dzxak-Cloud/DZX-private/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dzxak-Cloud/DZX-private?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dzxak-Cloud/DZX-private/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dzxak-Cloud/DZX-private?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Dzxak-Cloud/DZX-private/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BochilGaming/DZX-private?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Dzxak-Cloud/DZX-private/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dzxak-Cloud/DZX-private?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/Dzxak-Cloud/DZX-private/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Dzxak-Cloud/DZX-private?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dzxak-Cloud/DZX-private/issues"><img title="Issues" src="https://img.shields.io/github/issues/Dzxak-Cloud/DZX-private?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/Dzxak-Cloud/DZX-private/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Dzxak-Cloud/DZX-private?label=Issues&color=red&style=flat-square"></a>
