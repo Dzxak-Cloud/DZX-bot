@@ -1,7 +1,7 @@
   # DZX PRIVATE BOT WHATSAPP
 
 
-<a href="https://github.com/Dzxak-Cloud/DZX-private/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dzxak-Cloud/DZX-private?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Dzxak-Cloud/DZX-private/watchers">
 
 DZX is private script bot whatsapp by DZXAK
  The Use of This Bot is for Secure Group Whatsapp 
