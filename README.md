@@ -71,4 +71,5 @@ npm start
 #### Owner Bot
 
   
-[![DZXAK](https://github.com/Dzxak-Cloud.png?size=100)](https://github.com/Dzxak-Cloud)            Owner that make this bot 
+[![DZXAK](https://github.com/Dzxak-Cloud.png?size=100)](https://github.com/Dzxak-Cloud)  
+Owner that make this bot 
